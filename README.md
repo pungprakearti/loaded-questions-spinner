@@ -1,3 +1,11 @@
+# Description
+
+During the 2020 pandemic things like <a href="https://www.loadedquestions.com/">Loaded Questions</a> is what has helped my wife and I through the stressful and depressing nights. This spinner accompanied with a shared google spreadsheet and the question cards from the game are enough for a super fun remotely distanced night.
+
+If you haven't checked out the game, please purchase it ASAP for your next remote distance get together.
+
+Eat it 2020!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
